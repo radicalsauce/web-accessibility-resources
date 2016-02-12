@@ -12,3 +12,4 @@
 ## Tools:
 * [Web Accessibility Tools - Google](https://github.com/GoogleChrome/accessibility-developer-tools)
 * [Chrome Vox (Screenreader)](http://www.chromevox.com)
+* [OSX VoiceOver Keyboard Commands](http://lab.dotjay.co.uk/notes/voiceover-commands)
