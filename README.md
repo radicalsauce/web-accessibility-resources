@@ -1,5 +1,6 @@
 # web-accessibility-resources
 ## Accessibility Overviews:
+* [Web Content Accessibility Guildelines](https://www.w3.org/TR/WCAG20)
 * [Reframing accessibility for the web](http://alistapart.com/article/reframing-accessibility-for-the-web)
 * [Google: Introducing Web Accessibility](https://webaccessibility.withgoogle.com/unit?unit=1)
 * [Tink: Code Things](http://tink.uk/category/code-things)
