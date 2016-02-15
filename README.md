@@ -9,7 +9,7 @@
 * [Don’t Use Tabindex Greater than 0](http://adrianroselli.com/2014/11/dont-use-tabindex-greater-than-0.html)
 * [15-rules-making-accessible-links](http://www.sitepoint.com/15-rules-making-accessible-links)
 * [ARIA and accessibility: Adding focus to any HTML element](http://www.accessiq.org/news/features/2013/03/aria-and-accessibility-adding-focus-to-any-html-element)
-*[Use font-size: 100% !important](http://terrillthompson.com/blog/589)
+* [Use font-size: 100% !important](http://terrillthompson.com/blog/589)
 
 ## Tools:
 * [Web Accessibility Tools - Google](https://github.com/GoogleChrome/accessibility-developer-tools)
