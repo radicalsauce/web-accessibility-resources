@@ -4,6 +4,7 @@
 * [Reframing accessibility for the web](http://alistapart.com/article/reframing-accessibility-for-the-web)
 * [Google: Introducing Web Accessibility](https://webaccessibility.withgoogle.com/unit?unit=1)
 * [Tink: Code Things](http://tink.uk/category/code-things)
+* [Thoughts on screen reader detection](http://tink.uk/thoughts-on-screen-reader-detection/)
 
 ## Special Topics:
 * [Don’t Use Tabindex Greater than 0](http://adrianroselli.com/2014/11/dont-use-tabindex-greater-than-0.html)
