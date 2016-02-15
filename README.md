@@ -10,6 +10,7 @@
 * [15-rules-making-accessible-links](http://www.sitepoint.com/15-rules-making-accessible-links)
 * [ARIA and accessibility: Adding focus to any HTML element](http://www.accessiq.org/news/features/2013/03/aria-and-accessibility-adding-focus-to-any-html-element)
 * [Use font-size: 100% !important](http://terrillthompson.com/blog/589)
+* [Color Contrast Checking](http://alistapart.com/blog/post/easy-color-contrast-testing)
 
 ## Tools:
 * [Web Accessibility Tools - Google](https://github.com/GoogleChrome/accessibility-developer-tools)
